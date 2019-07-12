@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.b52b510b.chunk.css",
+    "main.js": "/website/static/js/main.446c9073.chunk.js",
+    "main.js.map": "/website/static/js/main.446c9073.chunk.js.map",
+    "runtime~main.js": "/website/static/js/runtime~main.de462641.js",
+    "runtime~main.js.map": "/website/static/js/runtime~main.de462641.js.map",
+    "static/css/2.266e55a5.chunk.css": "/website/static/css/2.266e55a5.chunk.css",
+    "static/js/2.9a9ea3e9.chunk.js": "/website/static/js/2.9a9ea3e9.chunk.js",
+    "static/js/2.9a9ea3e9.chunk.js.map": "/website/static/js/2.9a9ea3e9.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.0693a883f90bae3058273b8cd2c524cc.js": "/website/precache-manifest.0693a883f90bae3058273b8cd2c524cc.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/website/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b52b510b.chunk.css.map": "/website/static/css/main.b52b510b.chunk.css.map",
+    "static/media/NY-location-project.png": "/website/static/media/NY-location-project.cb9a10e5.png",
+    "static/media/Resume.pdf": "/website/static/media/Resume.3415835d.pdf",
+    "static/media/index.css": "/website/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/photo.jpg": "/website/static/media/photo.fea5f5eb.jpg",
+    "static/media/tobacco-permit-project.png": "/website/static/media/tobacco-permit-project.86cfd4bc.png"
+  }
+}
