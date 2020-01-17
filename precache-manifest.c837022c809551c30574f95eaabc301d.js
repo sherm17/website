@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19f63cbd5fa9a982638541bc37143f94",
+    "revision": "f4d267570b1e69dc077b15191fe7e6f7",
     "url": "/website/index.html"
   },
   {
-    "revision": "3d8d583326843a6b2f9e",
+    "revision": "390e5165630e68b8567c",
     "url": "/website/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "f5d0f72c60d3485a9e82",
+    "revision": "b2a353367293ad64d813",
     "url": "/website/static/css/main.c4c1a827.chunk.css"
   },
   {
-    "revision": "3d8d583326843a6b2f9e",
-    "url": "/website/static/js/2.a6d78928.chunk.js"
+    "revision": "390e5165630e68b8567c",
+    "url": "/website/static/js/2.b36e55d3.chunk.js"
   },
   {
-    "revision": "f5d0f72c60d3485a9e82",
-    "url": "/website/static/js/main.92abd3e3.chunk.js"
+    "revision": "b2a353367293ad64d813",
+    "url": "/website/static/js/main.2de78b13.chunk.js"
   },
   {
     "revision": "d15da1c5dbbceb93f3a7",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f810be653c8dc6a8b1b1df3656ebd5dc",
     "url": "/website/static/media/Resume.f810be65.pdf"
+  },
+  {
+    "revision": "f1b54450f113cd39abb65e13982a1f34",
+    "url": "/website/static/media/cannabis-retail-project.f1b54450.png"
   },
   {
     "revision": "8262057119c963741b868e0d8dd68dd3",
